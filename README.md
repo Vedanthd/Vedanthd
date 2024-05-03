@@ -1,6 +1,7 @@
 ### Hi there 👋 <br />
 😄 Pronouns: he/him <br />
-🔭 I’m currently working on Volunteering Website Project
+🔭 I’m currently working on Volunteering Website Project <br />
+Taking Engineering Design and Development at PHS
 
 <!--
 **Vedanthd/Vedanthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
