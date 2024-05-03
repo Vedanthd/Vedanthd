@@ -1,5 +1,5 @@
-### Hi there 👋
-😄 Pronouns: he/him
+### Hi there 👋 <br />
+😄 Pronouns: he/him <br />
 🔭 I’m currently working on Volunteering Website Project
 
 <!--
